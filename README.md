@@ -12,12 +12,12 @@ This game made by Appy Hour Team from Discovery Academy .
 
 Team members:
 
-Omar
+Omar lasheen  
 
-Adam
+Adam Ebrahim
 
-Ali
+Ali Taha
 
-Gamal
+Gamal Tarek
 
-Segoud
+Segoud Mohamed
